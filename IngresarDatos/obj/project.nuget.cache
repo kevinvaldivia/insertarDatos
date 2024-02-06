@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JxAYPoZifP+AYyD/bVqPcgH9ze3o55llISY7sLGuJK737wEr+ZyPhejkIj+30Nr9CEVuAzipmT01Tmp7nU5WRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\IngresarDatos\\IngresarDatos\\IngresarDatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
